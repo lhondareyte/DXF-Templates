@@ -1,2 +1,2 @@
 ##DXF Templates
-DXF files teplates for various usage
+DXF files templates for various usages
